@@ -20,7 +20,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="JUBOX" />
+          <SEO title="Jubox" />
           <Banner />
           <KeyFeature />
           <CoreFeature />
